@@ -16,8 +16,8 @@ Getting Started
 To view the website locally, follow these steps:
 
 Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
+checkout my first project 
+ https://javith111.github.io/portfolio-simple-website/
 Navigate to the project directory:
 
 
